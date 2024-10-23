@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS cg_db;
+CREATE DATABASE cg_db;
+USE cg_db; 

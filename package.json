@@ -1,0 +1,11 @@
+{
+  "name": "compassgames",
+  "version": "1.0.0",
+  "description": "classic board games",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aubrey Jones Creatives",
+  "license": "MIT"
+}
